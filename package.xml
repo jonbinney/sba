@@ -1,0 +1,14 @@
+<package>
+  <name>sba</name>
+  <description>ROS wrapper for the sparse bundle adjustment library</description>
+  <version>1.6.0</version>
+  <license>GPL</license>
+  <maintainer email="jon.binney@gmail.com">Jon Binney</maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>liblapack-dev</build_depend>
+  <build_depend>libblas-dev</build_depend>
+  <build_depend>f2c</build_depend>
+
+</package>
