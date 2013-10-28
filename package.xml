@@ -9,6 +9,7 @@
 
   <build_depend>liblapack-dev</build_depend>
   <build_depend>libblas-dev</build_depend>
+  <build_depend>suitesparse</build_depend>
   <build_depend>f2c</build_depend>
 
 </package>
